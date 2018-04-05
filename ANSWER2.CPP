@@ -35,13 +35,7 @@ int output(string s, char*a,int n)
     return ans;
     
     
-    
-    
-    
-    
-    
-    
-}
+ }
 
 
 
