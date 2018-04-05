@@ -19,7 +19,7 @@ void output(string s)
     
     for(int j=0;j<k;j++)
     {
-        
+        // Code goes here by using queue and stack data structure.
     }
 }
 
